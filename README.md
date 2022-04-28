@@ -4,7 +4,7 @@
 
 This project is about to analyse a data set of photos, which gathered by the drone dji Phantom 4 RTK.
 The result would be showed by creating the digital elevation model and its comperation with the given elevation model, which provided by the classical survey measurements.
-
+<img src="https://raw.githubusercontent.com/alexho11/Image-analysis/main/Pro1/camera%20location.png" width="600"/>
 
 ## project 2 of seminar image analysis 
 
