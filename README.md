@@ -11,4 +11,4 @@ The result would be showed by creating the digital elevation model and its compe
 The aim of the project is to reconstruct the 3D-statue, which locates in Citygarden of Stuttgart. 
 The camera in this project used is GoPro Hero6. 
 The analysis of the photos would software Metashape being used, which implemented the Structure-from-Motion method. 
-<img src="https://raw.githubusercontent.com/alexho11/Image-analysis/main/Pro2/result.png" width="600"/>
+<img src="https://raw.githubusercontent.com/alexho11/Image-analysis/main/Pro2/result.png" width="400"/>
